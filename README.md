@@ -24,13 +24,6 @@ A simple web app that identifies musical instruments in images using a deep lear
 
 ---
 
-## Demo
-
-![demo screenshot](assets/demo_placeholder.png)  
-*Screenshot of the app in action (replace with your actual screenshot)*
-
----
-
 ## Getting Started
 
 ### 1. Clone the Repo
